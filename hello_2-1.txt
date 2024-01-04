@@ -1,2 +1,0 @@
-hello_2-1.txt : this is a sample 
-checkin in test
