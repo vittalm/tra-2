@@ -1,2 +1,4 @@
 hello_1-1.txt : this is a sample 
-checkin in test: changes are added 1-2
+checkin in test: changes are added 1-3
+3rd line is added
+4rd line is added
